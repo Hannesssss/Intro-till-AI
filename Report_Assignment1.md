@@ -19,9 +19,13 @@ Other data such as demographic variables are a little trickier, we can’t just 
 
 <img src="assets/heatmaps1.png" alt="Coding man" width="50%" height="20%" />
 
+[image 1, source [^source5]]
+
 Using the heatmaps we can explore the correlation between the variables and whatever our target might be. This is where linear regression comes into play.
 
 <img src="assets/LinearRegression2.png" alt="Coding man" width="50%" height="20%" />
+
+[image 2, source [^source5]]
 
 Linear regression analysis is commonly used as a tool to predict the value of X variable compared to Y variable. Where you try to predict one X, which is usually referred to as the "dependent variable", compared to the "Y" variable, which is usually known as the independent variable. This is possible by comparing the dependent variable to the independent variable. By utilizing this form of analysis we can estimate coefficients on a linear equation. Linear regression minimizes the discrepancies between the predict and the actual output of the values.    
 
