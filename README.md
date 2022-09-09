@@ -2,7 +2,7 @@
 
 ## Hannes Hedberg :computer:
 
-This respitory contains my report from "Intro till AI", along with any assets used for the report.
+This respitory contains my report from "*Intro till AI*", along with any assets used for the report.
 
 
 ### Contact me :email:
